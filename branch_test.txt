@@ -1,0 +1,2 @@
+This file is for only testing git branch function.
+Add second line for branch test.
