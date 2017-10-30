@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This file is for only testing git branch function.
 Add second line for branch test.
+=======
+Another file of branch_test
+>>>>>>> darron_test
