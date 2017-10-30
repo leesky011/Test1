@@ -2,3 +2,5 @@ This file is for only testing git branch function.
 Add second line for branch test.
 
 Another file of branch_test
+
+again, this is for testing for merging conflict.
